@@ -1,0 +1,7 @@
+********ProjetDjango********
+-creation de l'environement virtuel
+-installation de ProjetDjango
+-creation du projet django avec la commande :django-admin startproject ProjetDjango
+-creation de 3 application django depuis le dossier ProjetDjango: django-admin startapp produit,client,commande
+-insertion des applactions creer dans le fichier ProjetDjango/settings.py au niveau de INSTALLED_APPS
+-test de lancement du projet django depuis le dossier ProjetDjango: django manage.py runserver
